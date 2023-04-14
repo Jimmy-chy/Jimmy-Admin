@@ -1,4 +1,5 @@
-# project-v3
+# 一个基于Vue3和Element-Plus的通用管理系统
+主要用于熟悉Vue3、Element UI，以及使用Echarts画图
 
 ## Project setup
 ```
